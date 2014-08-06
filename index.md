@@ -32,3 +32,12 @@ world
 
 ![ネコ](image.jpg)
 
+<div markdown="1">
+foo
+foo
+
+foo
+
+foo
+</div>
+
