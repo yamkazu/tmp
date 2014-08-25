@@ -2,6 +2,10 @@
 1hello --__:.
 --------
 
+
+## Code block with rogue `</div>`s in Markdown code span and block
+
+
 world
 
 [aaa](#aaa)
