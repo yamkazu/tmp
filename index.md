@@ -3,7 +3,7 @@
 --------
 
 
-## Code block with rogue `</div>`s in Markdown code span and block
+## Code block with rogue `</div>`s in Markdown code span and block [link](#hash)
 
 
 world
